@@ -1,0 +1,8 @@
+.formInput {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    font-size: 18px;
+    flex-grow: 1;
+}
